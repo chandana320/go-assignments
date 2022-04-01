@@ -1,0 +1,75 @@
+[
+{
+"Name": "Rohan",
+"Age": "12",
+"Gender": "M",
+"Sport": [
+"cricket",
+"football"
+],
+"Height": "5.9",
+"Weight": "50"
+},
+{
+"Name": "Rohit",
+"Age": "11",
+"Gender": "M",
+"Sport": [
+"football"
+],
+"Height": "5.8",
+"Weight": "51"
+},
+{
+"Name": "Keerthi",
+"Age": "13",
+"Gender": "F",
+"Sport": [
+"badminton",
+"table tennis"
+],
+"Height": "5.5",
+"Weight": "45"
+},
+{
+"Name": "Rohini",
+"Age": "12",
+"Gender": "M",
+"Sport": [
+"tennis"
+],
+"Height": "5.4",
+"Weight": "44"
+},
+{
+"Name": "Rakesh",
+"Age": "12",
+"Gender": "M",
+"Sport": [
+"cricket"
+],
+"Height": "5.9",
+"Weight": "55"
+},
+{
+"Name": "Vinay",
+"Age": "12",
+"Gender": "M",
+"Sport": [
+"chess",
+"carrom"
+],
+"Height": "5.7",
+"Weight": "52"
+},
+{
+"Name": "Neha",
+"Age": "12",
+"Gender": "F",
+"Sport": [
+"volleyball"
+],
+"Height": "5.7",
+"Weight": "40"
+}
+]
